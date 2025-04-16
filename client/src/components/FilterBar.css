@@ -1,0 +1,15 @@
+.filter-bar {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .filter-bar input {
+    padding: 8px 10px;
+    font-size: 14px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    min-width: 160px;
+  }
+  
